@@ -75,4 +75,4 @@ This Privacy Policy may be updated from time to time. If it is changed, the upda
 
 If you have questions about this Privacy Policy or your personal data, you can contact CubeLab at:
 
-[oranayalon@gmail.com](mailto:oranayalon@gmail.com)
+[cubelab.contact.app@gmail.com](mailto:cubelab.contact.app@gmail.com)
