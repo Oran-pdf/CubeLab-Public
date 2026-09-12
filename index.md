@@ -9,6 +9,6 @@ CubeLab is an app for tracking your progress, statistics, and achievements as yo
 
 For questions or support, contact:
 
-**[oranayalon@gmail.com](mailto:oranayalon@gmail.com)**
+**[cubelab.contact.app@gmail.com](mailto:cubelab.contact.app@gmail.com)**
 
 © 2026 CubeLab
