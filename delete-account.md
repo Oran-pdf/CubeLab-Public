@@ -17,7 +17,7 @@ Deleting the CubeLab app from your device does **not** delete your account. Your
 
 If you cannot access CubeLab and would like your account deleted, send a deletion request to:
 
-**[oranayalon@gmail.com](mailto:oranayalon@gmail.com)**
+**[cubelab.contact.app@gmail.com](mailto:cubelab.contact.app@gmail.com)**
 
 Please send the request from the email address associated with your CubeLab account so that we can verify that the account belongs to you.
 
